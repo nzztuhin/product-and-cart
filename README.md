@@ -1,3 +1,4 @@
+follow along project of Vue3 from freecodecamp
 # product-and-cart
 
 ## Project setup
